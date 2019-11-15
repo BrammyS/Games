@@ -48,7 +48,7 @@ public class Levelinfo
             this.level1Text = ImageIO.read(new File("Textures/level-1.png"));
             this.level2Text = ImageIO.read(new File("Textures/level-2.png"));
             this.level3Text = ImageIO.read(new File("Textures/level-3.png"));
-            this.bossFightText = ImageIO.read(new File("Textures/Boss-Fight.png"));
+            this.bossFightText = ImageIO.read(new File("Textures/Boss-fight.png"));
             this.endlessModeText = ImageIO.read(new File("Textures/Endless-mode.png"));
             for (int i = 0; i <= 9; i++)
             {
